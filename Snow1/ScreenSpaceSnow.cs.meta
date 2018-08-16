@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 6feb51394c23b45cb95e93bf69aa8dfc
+timeCreated: 1514782999
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SnowTexture: {fileID: 2800000, guid: 5e4388b9efe21483196bedc4123dc121, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
